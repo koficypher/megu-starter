@@ -1,0 +1,7 @@
+{
+  "name": "megu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
